@@ -1,4 +1,4 @@
-FROM statim-ai-server:0.1.0
+FROM statim-ai-server:latest
 
 # Install model dependencies
 RUN poetry add diffusers
