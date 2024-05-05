@@ -30,13 +30,13 @@ docker ps
 
 4. Create the docker image:
 ```sh
-# This will crate new docker image: statim-ai-server
+# This will crate new docker image: statim-ai-server-example-text-model
 make build
 ```
 
 5. Run the docker image:
 ```sh
-# This will run the statim-ai-server docker image
+# This will run the statim-ai-server-example-text-model docker image
 make run
 ```
 
